@@ -458,7 +458,7 @@ h2.content-title::before {
     margin-bottom: 35px;
 }
 .farm-portfolio-section .farm-section-title h2 {
-    background:none;
+    background: #0a0;
 }
 .farm-portfolio-section .farm-section-title {
     color: #fff;
