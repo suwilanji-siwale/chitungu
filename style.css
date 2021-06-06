@@ -1058,7 +1058,7 @@ select.porpose-select option {
 /* END Parralax-Background css */
 
 /* Pre Loader Style */
-.js div#preloader {
+/*.js div#preloader {
     position: fixed;
     left: 0;
     top: 0;
@@ -1067,5 +1067,5 @@ select.porpose-select option {
     height: 100%;
     overflow: visible;
     background: #fff url('img/loader.gif') no-repeat center center;
-}
+}*/
 /* END of Pre Loader Style */
