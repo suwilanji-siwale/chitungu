@@ -179,7 +179,7 @@
     START - Parallax scroll
     ------------------------------ */
 	$('.farm-welcome-text').parallax({
-		imageSrc: 'img/welcome-bg.jpg'
+		imageSrc: 'img/home-slider/slide-3.jpg'
 	});
 	$('.farm-welcome-text').css({
 		'backgroundAttachment':'fixed'
