@@ -224,7 +224,7 @@
     /* =================================
     ===  CONTACT FORM          ====
     =================================== */
-    $("#contact-form").on('submit', function(e) {
+   /* $("#contact-form").on('submit', function(e) {
         e.preventDefault();
         var name = $("#name").val() + " (" + $("#phone_number").val() + ")";
         var email = $("#email_address").val();
@@ -255,5 +255,6 @@
 
         return false;
     });
+    */
 
 })(jQuery);
